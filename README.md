@@ -1,5 +1,5 @@
 # JellyMesh
-Funny module i made to turn any mesh into soft body 
+Funny module i made to turn any mesh into a soft body 
 
 # Note
 Performance is pretty bad on this module cause editable meshes are pretty heavy right now due to them being a beta feature + roblox's built in physics constraints are slow in general.
